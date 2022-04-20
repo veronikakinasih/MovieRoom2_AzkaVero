@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "675767056690",
+    "project_id": "movieroom2-40883",
+    "storage_bucket": "movieroom2-40883.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675767056690:android:e73f4ad026a56768c33f2b",
+        "android_client_info": {
+          "package_name": "com.example.movieroom2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675767056690-37j1c7opb0b3acj1brhpguca0qujh2nl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMOyXUOwF8NxYFyXnLDWbofHK5OJYB6bY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675767056690-37j1c7opb0b3acj1brhpguca0qujh2nl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
